@@ -1,0 +1,1 @@
+### This file keep `obj/` folder be tracked by Git

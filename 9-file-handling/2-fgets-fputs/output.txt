@@ -1,0 +1,7 @@
+Line 1: abcdefghijkl
+Line 2: mnopqrstuvwxyz
+Line 3: ABCDEFGHI
+Line 4: JKLMNOPQRSTUV
+Line 5: WXYZ1234567890
+Line 6: ~!@#$%^&*(){}[]\
+Line 7: ~!@#$%^&*(){}[]\

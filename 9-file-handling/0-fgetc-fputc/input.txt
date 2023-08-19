@@ -1,0 +1,6 @@
+Read in binary mode will get 'LF' -> 'LF'
+But write in text mode will put 'LF' -> 'CR' 'LF' (in WINDOWS)
+
+foef(fp) should not be use becus its value depends on get func before!
+
+View different in 'Raw Line Edit'

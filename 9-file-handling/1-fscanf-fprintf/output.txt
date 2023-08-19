@@ -1,0 +1,21 @@
+Line 1: 28 5f	40 95
+Line 2: 24 5f	36 95
+Line 3: 22 12	34 18
+Line 4: 22 6a	34 106
+Line 5:  0  4	0 4
+Line 6: 24 29	36 41
+Line 7:  0  8	0 8
+Line 8: 23 7c	35 124
+Line 9: 24 a9	36 169
+Line 10:  0 18	0 24
+
+Line 1: 285f 10335
+Line 2: 245f 9311
+Line 3: 2212 8722
+Line 4: 226a 8810
+Line 5:    4 4
+Line 6: 2429 9257
+Line 7:    8 8
+Line 8: 237c 9084
+Line 9: 24a9 9385
+Line 10:   18 24

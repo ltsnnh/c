@@ -1,0 +1,5 @@
+Read in binary mode will get 'LF' -> 'LF'
+But write in text mode will put 'LF' -> 'CR' 'LF'
+
+View different in 'Raw Line Edit'
+ÿ
